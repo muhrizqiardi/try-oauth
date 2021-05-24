@@ -1,0 +1,12 @@
+{
+  "name": "try-oauth",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/muhrizqiardi/try-oauth.git",
+  "author": "Muhammad Rizqi Ardiansyah <rizqi.jpg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
